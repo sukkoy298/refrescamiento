@@ -5,7 +5,7 @@ import './style.css'
 //import {getHeroeByOwner} from './bases/08-import-export'
 //import { Owner } from './bases/data/hero.data';
 //import './bases/09-promises'
-import './bases/10-fetch-api'
+//import './bases/10-fetch-api'
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
